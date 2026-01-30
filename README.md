@@ -28,23 +28,23 @@ This project demonstrates practical usage of **DOM manipulation** and **keyboard
 
 ## 📂 Project Structure
 Drum-Kit/</br>
-│── index.html
-│── styles.css
-│── index.js
-│── sounds/
-│ ├── tom-1.mp3
-│ ├── tom-2.mp3
-│ ├── tom-3.mp3
-│ ├── tom-4.mp3
-│ ├── snare.mp3
-│ └── kick-bass.mp3
-└── images/
-├── tom1.png
-├── tom2.png
-├── tom3.png
-├── tom4.png
-├── crash.png
-├── kick.png
+│── index.html</br>
+│── styles.css</br>
+│── index.js</br>
+│── sounds/</br>
+│ ├── tom-1.mp3</br>
+│ ├── tom-2.mp3</br>
+│ ├── tom-3.mp3</br>
+│ ├── tom-4.mp3</br>
+│ ├── snare.mp3</br>
+│ └── kick-bass.mp3</br>
+└── images/</br>
+├── tom1.png</br>
+├── tom2.png</br>
+├── tom3.png</br>
+├── tom4.png</br>
+├── crash.png</br>
+├── kick.png</br>
 └── snare.png
 
 
