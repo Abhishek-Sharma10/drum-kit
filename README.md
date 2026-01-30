@@ -21,11 +21,6 @@ This project demonstrates practical usage of **DOM manipulation** and **keyboard
 
 ---
 
-## 📸 Preview
-(Add a screenshot of your project here)
-
----
-
 ## 📂 Project Structure
 Drum-Kit/</br>
 │── index.html</br>
@@ -53,7 +48,7 @@ Drum-Kit/</br>
 ## ▶️ How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/drum-kit-js.git
+   [git clone https://github.com/your-username/drum-kit-js.git](https://github.com/Abhishek-Sharma10/drum-kit.git)
 2. Open the project folder.
 
 3. Run index.html in your browser.
