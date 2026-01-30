@@ -27,7 +27,7 @@ This project demonstrates practical usage of **DOM manipulation** and **keyboard
 ---
 
 ## 📂 Project Structure
-Drum-Kit/
+Drum-Kit/</br>
 │── index.html
 │── styles.css
 │── index.js
