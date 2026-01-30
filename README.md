@@ -1,0 +1,59 @@
+# 🥁 Drum Kit Web Application
+
+An interactive Drum Kit web application built using **HTML, CSS, and JavaScript**.  
+This project demonstrates practical usage of **DOM manipulation** and **keyboard event handling** to create a responsive and engaging user experience.
+
+---
+
+## 🚀 Features
+- Play drum sounds using keyboard keys (`W A S D J K L`)
+- Click on on-screen buttons to trigger sounds
+- Real-time audio playback
+- Button animation on key press
+- Simple and clean UI
+
+---
+
+## 🛠 Tech Stack
+- **HTML5** – Structure  
+- **CSS3** – Styling & layout  
+- **JavaScript (ES6)** – Logic, events, and DOM manipulation  
+
+---
+
+## 📸 Preview
+(Add a screenshot of your project here)
+
+---
+
+## 📂 Project Structure
+Drum-Kit/
+│── index.html
+│── styles.css
+│── index.js
+│── sounds/
+│ ├── tom-1.mp3
+│ ├── tom-2.mp3
+│ ├── tom-3.mp3
+│ ├── tom-4.mp3
+│ ├── snare.mp3
+│ └── kick-bass.mp3
+└── images/
+├── tom1.png
+├── tom2.png
+├── tom3.png
+├── tom4.png
+├── crash.png
+├── kick.png
+└── snare.png
+
+
+---
+
+## ▶️ How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/drum-kit-js.git
+2. Open the project folder.
+
+3. Run index.html in your browser.
